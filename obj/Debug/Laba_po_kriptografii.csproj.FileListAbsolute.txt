@@ -1,0 +1,9 @@
+C:\Users\dessa\OneDrive\Рабочий стол\криптография курсач\Laba_po_kriptografii\bin\Debug\Laba_po_kriptografii.exe.config
+C:\Users\dessa\OneDrive\Рабочий стол\криптография курсач\Laba_po_kriptografii\bin\Debug\Laba_po_kriptografii.exe
+C:\Users\dessa\OneDrive\Рабочий стол\криптография курсач\Laba_po_kriptografii\bin\Debug\Laba_po_kriptografii.pdb
+C:\Users\dessa\OneDrive\Рабочий стол\криптография курсач\Laba_po_kriptografii\obj\Debug\Laba_po_kriptografii.csprojAssemblyReference.cache
+C:\Users\dessa\OneDrive\Рабочий стол\криптография курсач\Laba_po_kriptografii\obj\Debug\Laba_po_kriptografii.Form1.resources
+C:\Users\dessa\OneDrive\Рабочий стол\криптография курсач\Laba_po_kriptografii\obj\Debug\Laba_po_kriptografii.Properties.Resources.resources
+C:\Users\dessa\OneDrive\Рабочий стол\криптография курсач\Laba_po_kriptografii\obj\Debug\Laba_po_kriptografii.csproj.GenerateResource.cache
+C:\Users\dessa\OneDrive\Рабочий стол\криптография курсач\Laba_po_kriptografii\obj\Debug\Laba_po_kriptografii.exe
+C:\Users\dessa\OneDrive\Рабочий стол\криптография курсач\Laba_po_kriptografii\obj\Debug\Laba_po_kriptografii.pdb
